@@ -1,2 +1,1 @@
 hello txtfile
-hello second line entered
